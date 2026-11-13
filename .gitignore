@@ -1,0 +1,6 @@
+# Se ignora la carpeta target excepto el .war (entregable)
+target/*
+!target/billetera.war
+.idea/
+*.iml
+out/
