@@ -79,3 +79,12 @@ Se genera `target/billetera.war`.
 | 3 | Gasto de S/ 50.00 | Saldo S/ 300.00; gasto aparece antes que la recarga |
 | 4 | Gasto de S/ 400.00 | Rechazado: "Saldo insuficiente…"; saldo sigue en S/ 300.00 |
 | 5 | Monto 0, negativo, vacío o texto | Rechazado con mensaje; no cambia saldo ni historial |
+
+## Integrantes
+
+1. De la Cruz Huarancca, Luis Cristian
+2. Lizana Romero, Nilton
+3. Milla Guerrero, Epifanio Eulogio
+4. Ruiz Robles, Elianni Jhoselin
+
+Curso: Soluciones Web y Aplicaciones Distribuidas – Docente: MSc. Victor Muguerza (UPN)
